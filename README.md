@@ -1,6 +1,6 @@
-# Download Tor Browser
+# Download Tor Browser & Installing Tor Browser Launcher on Kali Linux
 
-[Wiki](https://github.com/oneplus-x/gettorbrowser/wiki/Installing-Tor-Browser)
+Check [Wiki](https://github.com/oneplus-x/gettorbrowser/wiki/Installing-Tor-Browser)
 
 In this repository you will find links to download the latest version of
 Tor Browser and Orbot, which currently are 8.0.2 and 15.1.2. Please select one of the links below:
